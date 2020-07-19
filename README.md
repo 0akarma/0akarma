@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**0akarma/0akarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+    :wave: Hi! I'm Harold Kung AKA 0aKarmA.
+    <br>I was working on CTF platform development, <br>and create a easy project like <a href="https://github.com/D0g3-Lab/H1ve">H1ve</a>.
+      <br><br><em>Now I am trying to be a slashie :sparkles:<br>
+    <br>:coffee: Get in touch :point_right: @ me on <a href="https://twitter.com/harold_kung">Twitter</a>
+  </samp>
+</p>
